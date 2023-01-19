@@ -2,6 +2,10 @@ html,
 body {
   padding: 0;
   margin: 0;
+  background-image: url("https://www.treehugger.com/thmb/ys8d-54-dEqnK_9otwzHrG00hfI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sunny-day-1308308199-a9cb79ef20c1415586e8ea95b50a8695.jpg");
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
@@ -18,9 +22,5 @@ a {
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
   }
 }
