@@ -4,5 +4,3 @@ You can type in a location (continent, country, province, state, city) and the a
 API website: https://openweathermap.org/current
 API url: https://api.openweathermap.org/data/2.5/weather?
 Language/ Tools: English, Javascript, CSS
-
-
